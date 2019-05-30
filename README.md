@@ -8,4 +8,7 @@
 * Vue Cli
 * Axios
 * Bootstrap4
+* Vue-loading-overlay
 * Animate.css
+
+<a href="https://weijie0.github.io/JS5F_TaiwanAQI/">成果網站</a>
